@@ -1,5 +1,7 @@
+---
 title: "Reedy Boi's First Blog Post"
 date: 2020-05-13
+---
 
 Greetings, friends.
 
