@@ -1,3 +1,6 @@
+title: "Reedy-Boi-First-Blog-Post"
+date: 2020-05-13
+
 Greetings, friends.
 
 There comes a time in every young persons life when they must face new, exciting dangers, brave the unknown, and learn softwares and
