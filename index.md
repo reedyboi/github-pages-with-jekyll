@@ -1,4 +1,3 @@
----
 title: amateur projects, professional results
 ---
 
